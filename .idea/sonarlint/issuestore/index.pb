@@ -27,8 +27,6 @@ p
 Rsrc/main/java/hu/uni/eszterhazy/warehouse/inventory/NotEnoughStorageException.java,8/8/882962da262fac550a7479dd32c7b2af8a732c35
 y
 Isrc/main/java/hu/uni/eszterhazy/warehouse/inventory/InventoryManager.java,7/7/77c6741b7c5d28d4f04ed3c64e1aae1f2daa391e
-v
-Fsrc/main/java/hu/uni/eszterhazy/warehouse/inventory/WarehouseImpl.java,4/1/4111f14f4104f0e0dd725980aff35d7aba798db1
 }
 Msrc/main/java/hu/uni/eszterhazy/warehouse/transaction/TransactionManager.java,4/c/4c956fb52d054ecc1136ff2a281c00cb0772a2b4
 n
